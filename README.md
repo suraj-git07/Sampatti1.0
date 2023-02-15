@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+#  Sampatti a secure layer on property market
 
 ## Technology Stack & Tools
 
